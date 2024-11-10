@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple</title>
+</head>
+<body>
+<h1> Aiden Kim <h1>
+<h4> I like animals, my dream is to be a veterinary. I really like coding!<h4>
+ <img src="https://www.usatoday.com/gcdn/-mm-/fb7eb97a8eed153684baf36218e6a08dbc7677c0/c=332-0-1763-1431/local/-/media/2022/06/08/USATODAY/usatsports/veterinarian-treating-a-dog.jpg" alt="Vet" width="500" length="500">
+<h4>
+<form action="/submit" method="post">
+        <label for="name">이름:</label>
+        <input type="text" id="name" name="name">
+		<button type="submit">제출?</button>
+    </form>
+<a href="https://www.w3schools.com/html/">HTML</a>
+    <ul>
+        <li>Aiden</li>
+        <li>김민성</li>
+        <li>Aden</li>
+    </ul>
+
+    <table border="1">
+        <tr>
+            <th>My Pet</th>
+            <th>Age</th>
+        </tr>
+        <tr>
+            <td>Cookie</td>
+            <td>9</td>
+        </tr>
+        <tr>
+            <td>Cookie</td>
+            <td>2</td>
+        </tr>
+    </table>
+<h4>
+</body>
+</html>
